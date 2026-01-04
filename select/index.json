@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "愛の標識",
+  "base_artist": "クリープハイプ",
+  "createdAt": "2026-01-04T16:36:46.620275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛の標識",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_愛の標識_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛の標識 - Ai no Hyoshiki",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/02_愛の標識_-_Ai_no_Hyoshiki_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛の標識",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_愛の標識_クリープハイプ.txt"
+    }
+  ]
+}
